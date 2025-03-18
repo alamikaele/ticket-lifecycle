@@ -30,23 +30,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <h3 align="center"> Intake </h3>
-<br/>
-<p align="center">
-End user creates a ticket by first logging in using their credentials
-</p>
-<br/>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
-</p>
-<br/>
 
 <br/>
 <p align="center">
-End user then creates the ticket with explanation and help topic chosen
+End user creates the ticket by entering in their credentials (name and email) with explanation and help topic chosen. The user then submits
 </p>
 <br/>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/llnDZ3r.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <br/>
 
@@ -57,7 +48,7 @@ Help Desk Agent (John) uses Login credentials and views ticket properties
 </p>
 <br/>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7UkkGc9.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <br/>
 
@@ -67,7 +58,7 @@ Help Desk Agent(John) Then sets properties to the ticket.
 </p>
 <br/>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AlifVrM.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <br/>
 
@@ -77,7 +68,7 @@ Sys Admin Agent(Jane) then logs in and works ticket to completion.
 </p>
 <br/>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Pj8vMHl.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <br/>
 
